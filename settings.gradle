@@ -1,0 +1,4 @@
+rootProject.name = 'recycleradapter-generator'
+include 'codegen'
+include 'annotations'
+
